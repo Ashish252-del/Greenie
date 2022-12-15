@@ -1,5 +1,10 @@
 .App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   text-align: center;
+  background: radial-gradient(circle,#6BB77B,#172D13);
+  height: 100%;
 }
 
 .App-logo {
